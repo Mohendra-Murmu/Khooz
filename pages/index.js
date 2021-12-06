@@ -13,7 +13,7 @@ export default function Home() {
       <header className="flex w-full p-5 justify-between text-sm">
         
         {/* Left*/}
-        <div className='flex space-x-4 items-center'>
+        <div className='flex space-x-4 items-center text-sm'>
           <p>About</p>
         </div>
 
