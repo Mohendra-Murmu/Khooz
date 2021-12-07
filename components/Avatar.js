@@ -1,6 +1,7 @@
+import Image from "next/image"
 function Avatar({url, className}) {
     return (
-        <img
+        <Image
         loading="lazy"
         className={`rounded-full
                  h-10
