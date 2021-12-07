@@ -14,6 +14,8 @@ function Avatar({url, className}) {
     `}
         src={url}
         alt="Profile pic"
+        height={35}
+        width={40}
         />
     )
 }
