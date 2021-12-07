@@ -1,4 +1,4 @@
-import { GlobeIcon } from '@heroicons/react/solid'
+import { GlobeIcon } from "@heroicons/react/solid"
 
 function Footer() {
 

@@ -71,6 +71,7 @@ export default function Home() {
           https://www.graphicsprings.com/filestorage/stencils/97c7b645e4109f35745eeb9a75952070.png"
           width={100}
           height={100}
+          alt="logo"
         />
         <div className="flex w-full mt-5 
                         hover:shadow-lg 

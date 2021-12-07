@@ -23,6 +23,7 @@ function Header() {
                 width={120}
                 onClick={() => router.push("/")}
                 className="cursor-pointer"
+                alt="logo"
                 />
                 <form className="flex 
                                 flex-grow
