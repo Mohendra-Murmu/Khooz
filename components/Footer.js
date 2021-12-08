@@ -1,5 +1,5 @@
 import { GlobeIcon } from "@heroicons/react/solid"
-
+import Link from "next/link"
 function Footer() {
 
     return (
@@ -33,9 +33,9 @@ function Footer() {
                                 space-x-8 
                                 whitespace-nowrap 
                                 md:justify-self-start">
-                    <p>Portfolio</p>
+                    <Link href="https://mohendra-murmu.web.app"><p className="link">Portfolio</p></Link>
                     <p>Contact</p>
-                    <p>About Me</p>
+                    <Link href="https://www.linkedin.com/in/mohendra-murmu/"><p className="link">About Me</p></Link>
                 </div>
                 <div className="flex 
                                 justify-center 
